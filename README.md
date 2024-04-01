@@ -18,7 +18,7 @@
     fun_fact = "I can differentiate bear species."
 	hobbies = [
 				'Gaming',
-                'Movies',
+                		'Movies',
 			 	'RPG',
 				'Philosophy'
 			]
